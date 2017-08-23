@@ -17,8 +17,11 @@ If git is not installed on your system you can follow the steps below.
 
 ### Linux
 #### Debian/Ubuntu
-1. Open terminal and run `$ sudo apt-get update
-$ sudo apt-get install git`
+1. Open terminal and run
+```
+$ sudo apt-get update
+$ sudo apt-get install git
+```
 2. Verify the installation by running `git --version`
 #### Fedora
 1. Open terminal and run `sudo dnf install git` or `sudo yum install git`
