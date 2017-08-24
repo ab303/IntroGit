@@ -46,7 +46,7 @@ Git markdown is syntax for styling your documents. This comes in handy when you'
 
 ##### images
 images can be included in the by using this format `![Alt Text](url)`
-![Example image](/images/banana.jpg)
+![Example image](https://github.com/ab303/IntroGit/blob/master/GitHub/images/banana.jpg)
 
 ##### headers and quotations
 Headings in your document can be marked with `#` character. If you want subheadings use multiple `#` characters. The smallest heading size includes six hash characters (`######`)
@@ -54,7 +54,8 @@ To highlight quotes in your text begin the line with `>` character
 
 ##### code
 - inline code can be included in between ``code`` and it appears like  `code`
-- for multiple lines of code use ``` ```
+- for multiple lines of code use `
+```
 your code
 ```
-```
+`
