@@ -22,9 +22,28 @@ GitHub is a platform for hosting and maintaining your code online. It makes coll
 People often link their Github profiles to their resumes as GitHub is an excellent place to host your projects. You can make use of git markdown to document your project systematically. Once you make your projects public anyone who visits your profile can access them.
 
 #### Creating your account and connecting to it
-Go over to GitHub.com and fill in your username, password and email id and follow the on screen prompts to create your account.
-Once you have created your account you can connect to your GitHub
+- Go over to GitHub.com and fill in your username, password and email id.
+![create account](https://github.com/ab303/IntroGit/blob/master/GitHub/images/CreateAccount.png)
+- now you will be asked to choose a plan. Unless you are going to put your private project on github you do not need to pick the paid version.
+![choose plan](https://github.com/ab303/IntroGit/blob/master/GitHub/images/ChoosePlan.png)
+- this third step is optional and you may skip it.
+![step 3](https://github.com/ab303/IntroGit/blob/master/GitHub/images/step3.png)
 
+
+#### Creating your first repository
+To create a repository click on start a project or new repository.
+![create repo](https://github.com/ab303/IntroGit/blob/master/GitHub/images/createRepo.png)
+Check the option to initialize the repository with a readme file. enter a unique name for your repository and provide a small description.
+![initialize repo](https://github.com/ab303/IntroGit/blob/master/GitHub/images/InitializeRepo.png)
+![repo1](https://github.com/ab303/IntroGit/blob/master/GitHub/images/repo1.png)
+Click on upload files to add files to your new repository
+![uploading files](https://github.com/ab303/IntroGit/blob/master/GitHub/images/uploadFiles.png)
+You can drag and drop your files in the box. Add comments to your commit i.e. new upload and choose the branch master.
+![repo2](https://github.com/ab303/IntroGit/blob/master/GitHub/images/repo2.png)
+GitHub recognizes the language used in your project.
+![final](https://github.com/ab303/IntroGit/blob/master/GitHub/images/final.png)
+Editing your readme file.
+![edit readme](https://github.com/ab303/IntroGit/blob/master/GitHub/images/editReadme.png)
 #### Git markdown
 Git markdown is syntax for styling your documents. This comes in handy when you're documenting your repositories online.
 * text
@@ -45,7 +64,7 @@ Git markdown is syntax for styling your documents. This comes in handy when you'
 - to use sublists you should indent them 2 spaces
 
 ##### images
-images can be included in the by using this format `![Alt Text](url)`
+images can be included in the by using this format `![Alt Text](url)`. The image below has been included by `![Example image](https://github.com/ab303/IntroGit/blob/master/GitHub/images/banana.jpg)`
 ![Example image](https://github.com/ab303/IntroGit/blob/master/GitHub/images/banana.jpg)
 
 ##### headers and quotations
@@ -54,8 +73,4 @@ To highlight quotes in your text begin the line with `>` character
 
 ##### code
 - inline code can be included in between ``code`` and it appears like  `code`
-- for multiple lines of code use `
-```
-your code
-```
-`
+- for multiple lines of code enclose them in   ` ``` `
