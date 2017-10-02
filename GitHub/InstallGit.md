@@ -3,6 +3,8 @@
 ### MAC OS X
 
 git might already be installed on your system. To check run `git --version` in terminal.
+
+
 If git is not installed on your system you can follow the steps below.
 1. Download git from [here](https://git-scm.com/download/mac)
 2. Follow the on screen prompts.
