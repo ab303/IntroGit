@@ -16,6 +16,7 @@ If git is not installed on your system you can follow the steps below.
 3. Open command prompt or git bash (depending on your choice in step 2) and run `git --version`
 
 ### Linux
+
 #### Debian/Ubuntu
 1. Open terminal and run
 ```
