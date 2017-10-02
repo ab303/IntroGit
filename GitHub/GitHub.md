@@ -1,6 +1,7 @@
 # Introduction to GitHub
 This tutorial is intended for absolute beginners.
 In this two-part tutorial we will go over the following:
+
 * Part 1: Introduction
   * why do we have GitHub
   * Overview of GitHub
