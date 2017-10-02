@@ -13,7 +13,7 @@ If git is not installed on your system you can follow the steps below.
 
 1. Download git from [here](https://git-scm.com/download/win)
 2. Run the git setup wizard and follow the prompts. You can choose any of your preferred option for installing git.(git bash or using command prompt. This will later be used to run git commands)
-3. Open command prompt or git bash(depending on your choice in step 2) and run `git --version`
+3. Open command prompt or git bash (depending on your choice in step 2) and run `git --version`
 
 ### Linux
 #### Debian/Ubuntu
